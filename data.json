@@ -1,0 +1,6 @@
+{
+    "Name": ["John", "Jane", "Bob"],
+    "Age": [30, 25, 40],
+    "City": ["New York", "San Francisco", "Chicago"]
+}
+
