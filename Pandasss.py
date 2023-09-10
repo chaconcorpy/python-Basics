@@ -118,6 +118,7 @@ print(myvar.to_string)
 # plot a graph using pandas
 import matplotlib.pyplot as plt
 myvar.plot()
+# I am just trying to learn the github.
 plt.show()
 # scatter plot
 myvar.plot(kind='hist',x='Duration',y='Calories')
